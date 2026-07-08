@@ -51,8 +51,6 @@ Video-Deepfake-Detection-SwinTransformer/
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
-├── Actual_video_deepfake_full_code.py # Latest Colab export (reference)
-└── video_model_full_code.py       # Original Colab export (reference)
 ```
 
 ---
